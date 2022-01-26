@@ -1,0 +1,46 @@
+body{
+    background-color: cornflowerblue;
+}
+
+h1{
+    color:white;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.name_of_members{
+    font-size:20px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color:crimson;
+}
+
+#webcam_view_label{
+    font-size:25px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color:white;
+}
+
+#capture_btn{
+    width:200px;
+    height:50px;
+    font-size:25px;
+    border-radius: 5px;
+    border-color:crimson;
+    color:crimson;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+#check_btn{
+    width:200px;
+    height:50px;
+    font-size:25px;
+    border-radius: 5px;
+    border-color:crimson;
+    color:crimson;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.outputs{
+    font-size:20px;
+    color:white;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
